@@ -7,7 +7,7 @@ I'm @diverHansun, a passionate software engineering student diving deep into the
 - 👀 **Interests**: I have a keen interest in programming, web development, history research, Chinese culture, and exploring economic knowledge.
 - 🌱 **Currently Learning**: I'm focused on learning how to design and build web pages, including front-end and back-end development.
 - 💞️ **Looking to Collaborate On**: Exciting open-source projects or any software development projects that align with my skills and interests.
-- 📫 **How to Reach Me**: You can connect with me via email at jacquelynnemichalak713@gmail.com
+- 📫 **How to Reach Me**: You can connect with me via email at Hansun025@outlook.com
 - ⚡ **Fun Fact**: I'm not just a "nerdy" programmer—I’m also a basketball player, fitness enthusiast, and Chinese history buff! 🏀💪📜
 
 ---
