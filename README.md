@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Software+Engineering+Student;AI+Agent+Builder+%7C+Elderly+Assistant+Developer;Micro-Expression+Analyzer+%7C+Full-Stack+Explorer" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diverHansun&style=flat-square&color=4A90E2" />
-</div>
-
 ---
 
 ##  About Me
