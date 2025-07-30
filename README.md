@@ -14,20 +14,20 @@
 
 ##  About Me
 
-- 🎯 **Interests**: Programming, web development, Chinese culture, historical studies, and economic systems  
+- 🎯 **Interests**: Programming, web development, Chinese history studies, and psychological analysis
 - 🌱 **Currently Learning**: Database management, UML modeling, computer networks, Raspberry Pi projects  
 - 🤝 **Looking to Collaborate On**: AI tools, elderly-friendly tech, or innovative full-stack ideas  
 - 📫 **Reach Me**: [Hansun025@outlook.com](mailto:Hansun025@outlook.com)  
-- ⚡ **Fun Fact**: I'm a basketball player, weight trainer, and Chinese history enthusiast
+- ⚡ **Fun Fact**: I'm a basketball player, weight trainer, and reading enthusiast
 
 ---
 
 ##  Featured Skills
 
 ### 🤖 AI & Agent Systems
-- LangChain-powered AI Agent with custom tools and memory  
+-  AI Agent with custom tools and memory  
 - WeChat Mini Program for elderly (LLMs + voice/text UI)  
-- Micro-expression analysis tool (OpenCV + Py-Feat + PDF)
+- Micro-expression analysis tool 
 
 ### 🌐 Full-Stack Development
 - Flask + Vue.js integration  
@@ -89,27 +89,19 @@ A web platform combining weather queries, user location matching, and social pos
 ##  Future Goals
 
 - Expand AI agent to support multimodal LLMs (voice/image input)  
-- Launch a Raspberry Pi-based home automation system for elderly care  
+- Deepen knowledge in psychology, sociology, and deep learning, and apply it to AI-human interaction design   
 - Learn Kubernetes for scalable microservice deployment
 
 ---
 
-##  Let's Connect
+##  Connection
 
 <p align="center">
-  I'm always open to collaboration, feedback, or a good conversation on AI, society, or ancient Chinese dynasties.
+  I'm always open to collaboration, feedback, or a good conversation on AI, society, or Chinese dynasties.
 </p>
 
 <p align="center" style="font-size:20px; font-weight:bold;">
-  🚀 Let's build something meaningful together!
+   Let's build something meaningful together!
 </p>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diverHansun/diverHansun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
