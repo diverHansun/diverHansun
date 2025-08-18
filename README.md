@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+Software+Engineering+Student;AI+Agent+Builder+%7C+Elderly+Assistant+Developer;Micro-Expression+Analyzer+%7C+Full-Stack+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineering+Student;AI+Developer+%7C+Full-Stack+Explorer;Passionate+about+Technology+%26+Innovation" />
 </div>
 
 ---
@@ -20,15 +20,15 @@
 
 ##  Featured Skills
 
-### 🤖 AI & Agent Systems
--  AI Agent with custom tools and memory  
-- WeChat Mini Program for elderly (LLMs + voice/text UI)  
-- Micro-expression analysis tool 
+### 🤖 AI & Development
+- AI Agent development with custom tools  
+- Web application development  
+- Data analysis and visualization tools 
 
 ### 🌐 Full-Stack Development
-- Flask + Vue.js integration  
-- Redis caching & RESTful APIs  
-- Docker-based cloud deployment with Nginx
+- Modern web frameworks integration  
+- API development and database management  
+- Cloud deployment and containerization
 
 ### 🧩 System Design & Modeling
 - UML, ER diagrams, and class design  
@@ -68,17 +68,17 @@
 
 ##  Projects & Goals
 
-### 🧑‍⚕️ AI Elderly Assistant Mini Program
-WeChat Mini Program for older users with voice/text interaction and LLM-driven health Q&A.
+### 🤖 AI Assistant Development
+Building intelligent applications with modern AI technologies and user-friendly interfaces.
 
-### 🧠 Micro-Expression Analysis Tool
-OpenCV + Py-Feat + Matplotlib pipeline that outputs facial emotion PDF reports, useful for emotion recognition research.
+### 📊 Data Analysis Tools
+Creating tools for data processing, visualization, and insights generation.
 
-### 🔧 LangChain Agent Development
-A modular Python-based AI agent integrating memory, tools, fallback models, weather querying, and voice input.
+### 🌐 Web Applications
+Developing full-stack web solutions with modern frameworks and cloud technologies.
 
-### 🌦 Weather-Social Platform
-A web platform combining weather queries, user location matching, and social posting — full-stack: Flask + Vue + Redis.
+### 🔧 Open Source Contributions
+Contributing to various open-source projects and building reusable tools.
 
 ---
 
@@ -97,7 +97,7 @@ A web platform combining weather queries, user location matching, and social pos
 </p>
 
 <p align="center" style="font-size:20px; font-weight:bold;">
-   Let's build something meaningful together!
+   Let's build something amazing together!
 </p>
 
 
