@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b3e,100:1e40af&height=200&section=header&text=Hi!%20I'm%20@diverHansun&fontSize=38&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Building%20AI%20%7C%20Full-Stack%20%7C%20Hardware&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:1a3a8a,100:4A90E2&height=200&section=header&text=Hi!%20I'm%20@diverHansun&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Building%20AI%20%7C%20Full-Stack%20%7C%20Hardware&descAlignY=60&descSize=18" />
 </div>
 
 <div align="center">
@@ -118,12 +118,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diverHansun&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diverHansun&layout=compact&theme=github_dark_blue&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diverHansun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diverHansun&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=diverHansun&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=diverHansun&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -163,5 +163,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b3e,100:1e40af&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:1a3a8a,100:0d1b3e&height=120&section=footer" />
 </div>
