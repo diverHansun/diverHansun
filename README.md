@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:1a3a8a,100:4A90E2&height=200&section=header&text=Hi!%20I'm%20@diverHansun&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Building%20AI%20%7C%20Full-Stack%20%7C%20Hardware&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:74B5F5&height=200&section=header&text=Hi!%20I'm%20@diverHansun&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Building%20AI%20%7C%20Full-Stack%20%7C%20Hardware&descAlignY=60&descSize=18" />
 </div>
 
 <div align="center">
@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=diverHansun&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=diverHansun&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -134,6 +134,7 @@
   <img src="https://ghchart.rshah.org/4A90E2/diverHansun" alt="Contribution Chart" />
 </p>
 
+<!-- snake animation: uncomment after running the GitHub Action for the first time
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diverHansun/diverHansun/output/github-contribution-grid-snake-dark.svg">
@@ -141,6 +142,7 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/diverHansun/diverHansun/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+-->
 
 ---
 
@@ -163,5 +165,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:1a3a8a,100:0d1b3e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74B5F5,100:4A90E2&height=120&section=footer" />
 </div>
