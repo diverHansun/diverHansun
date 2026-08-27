@@ -48,58 +48,62 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/diverHansun/IRIS-Multi-AI-Agent">IRIS-Multi-AI-Agent</a></h3>
-      <p>LangGraph-powered multi-modal agent with extensive tool integration. Supports dynamic task planning, tool calling, and multi-step reasoning.</p>
+      <h3><a href="https://github.com/diverHansun/newbee-notebook">Newbee Notebook</a></h3>
+      <p>Self-hosted AI document reader with high-accuracy parsing and retrieval, agent notes and charts, and Bilibili video summarization.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MIT-22c55e?style=flat-square"/>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img alt="AGPL-3.0" src="https://img.shields.io/badge/AGPL--3.0-b91c1c?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/diverHansun/ohbaby-agent">ohbaby-agent</a></h3>
+      <p>Open-source AI coding agent with an Ink-based terminal/TUI and a local web UI, distributed as an npm CLI.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img alt="MIT" src="https://img.shields.io/badge/MIT-22c55e?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/diverHansun/open-img-generator">Open Image Generator</a></h3>
+      <p>Local-first multi-provider AI image generation workspace built with Next.js and SQLite, with an optional macOS desktop app.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img alt="Apache-2.0" src="https://img.shields.io/badge/Apache--2.0-d97706?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/diverHansun/Qwen3-0.6B-Lora-Fine-tuning">Qwen3-0.6B LoRA Fine-tuning</a></h3>
+      <p>Two-stage SFT + DPO LoRA fine-tuning pipeline for Qwen3-0.6B, targeting function calling and general reasoning with multiple model export formats.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img alt="Qwen3" src="https://img.shields.io/badge/Qwen3-0.6B-7c3aed?style=flat-square"/>
+        <img alt="LoRA" src="https://img.shields.io/badge/LoRA-f97316?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/diverHansun/IRIS-Multi-AI-Agent">IRIS Multi-AI Agent</a></h3>
+      <p>Chinese-optimized multi-LLM agent framework with context memory, multi-search, maps, market data, and Notion knowledge management.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+        <img alt="MIT" src="https://img.shields.io/badge/MIT-22c55e?style=flat-square"/>
       </p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/diverHansun/Fruit_Sale_System">Fruit Sale System</a></h3>
-      <p>Enterprise-level full-stack fruit e-commerce platform with inventory, order, and user management modules.</p>
+      <p>Full-stack fruit e-commerce platform with inventory, order, and user management modules, built for an enterprise-style workflow.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MyBatisPlus-ED8B00?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/diverHansun/Robot-Angel">Robot-Angel</a></h3>
-      <p>AI-powered PTZ robot brain built on ESP32 hardware. Combines Python AI logic with embedded firmware for physical interaction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GPL--3.0-3b82f6?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/diverHansun/glm_realtime_chat">GLM Realtime Chat</a></h3>
-      <p>Terminal-based real-time conversation app powered by ZhipuAI's Realtime model. Lightweight and keyboard-first.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ZhipuAI-4A90E2?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/diverHansun/Operation-Sysyem-Design">OS Design</a></h3>
-      <p>Simulated operating system with process scheduling, memory management, and file system — built in C++ on msys2.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/diverHansun/Warehouse_Management_System">Warehouse Management</a></h3>
-      <p>Enterprise inventory management system with inbound/outbound tracking, supplier management, and reporting (Java Web).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img alt="MyBatis-Plus" src="https://img.shields.io/badge/MyBatis--Plus-ED8B00?style=flat-square&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -118,11 +122,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=diverHansun&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak statistics" src="https://github-readme-streak-stats-eight.vercel.app/?user=diverHansun&theme=tokyonight&hide_border=true&timezone=Asia%2FShanghai" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diverHansun&theme=tokyo-night&hide_border=true&area=true&color=4A90E2&line=4A90E2&point=74B5F5" />
+  <img alt="GitHub contribution activity graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diverHansun&theme=tokyonight" />
 </p>
 
 ---
@@ -130,7 +134,7 @@
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/4A90E2/diverHansun" alt="Contribution Chart" />
+  <img src="https://ghchart.rshah.org/4A90E2/diverHansun" alt="GitHub contribution chart" />
 </p>
 
 <p align="center">
