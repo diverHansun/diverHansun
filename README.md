@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=45&lines=LangGraph+Agent+Developer;ESP32+Hardware+Hacker;Full-Stack+Builder+%7C+Vue+%2B+Spring;Exploring+AI+%C3%97+Human+Interaction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=45&lines=Agent+Developer;ESP32+Hardware+Hacker;Full-Stack+Builder+%7C+Vue+%2B+Spring;Exploring+AI+%C3%97+Human+Interaction" />
 </div>
 
 <div align="right">
@@ -36,8 +36,8 @@
 > Software engineering student building AI agents and full-stack systems. Exploring the intersection of technology and human behavior.
 
 - 🎯 **Interests**: AI Agent development, full-stack engineering, embedded systems, Chinese history & psychological analysis
-- 🌱 **Currently Learning**: LangGraph, multimodal AI, computer networks, ESP32 / Raspberry Pi projects
-- 🤝 **Looking to Collaborate On**: AI tools, elderly-friendly tech, or innovative full-stack ideas
+- 🌱 **Currently Learning**: coding agent, multimodal AI, computer networks, ESP32 / Raspberry Pi projects
+- 🤝 **Looking to Collaborate On**: Agent tools, muti agents collaboration, or innovative full-stack ideas
 - 📫 **Reach Me**: [Hansun025@outlook.com](mailto:Hansun025@outlook.com)
 - ⚡ **Fun Fact**: Basketball player, weight trainer, and reading enthusiast
 
@@ -113,9 +113,9 @@
 
 ## Future Goals
 
-- Expand IRIS to support multimodal LLMs (voice / image input)
-- Deepen knowledge in psychology, sociology, and deep learning, and apply it to AI-human interaction design
-- Learn Kubernetes for scalable microservice deployment
+- Building AI Agents  
+- Learn LLM architecture
+- Deepen knowledge in psychology, sociology, and history 
 
 ---
 
