@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#f5c542&color_dots=#eef2f6,#cfe3f0,#9cc8e0,#5f9fc4,#2f6f9f
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#f5c542&color_dots=#eef4fa,#c4e4fb,#85c9f7,#42a9ee,#1789db
 
       - name: Wrap snake in light card
         run: python3 .github/scripts/snake_card.py dist/github-contribution-grid-snake.svg

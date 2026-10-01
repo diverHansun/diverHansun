@@ -134,7 +134,7 @@
 ## Contribution Activity
 
 <p align="center">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/diverHansun/diverHansun/output/github-contribution-grid-snake.svg?v=2" width="100%" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/diverHansun/diverHansun/output/github-contribution-grid-snake.svg?v=3" width="100%" />
 </p>
 
 ---
