@@ -38,7 +38,7 @@
 - 🎯 **Interests**: AI Agent development, full-stack engineering, embedded systems, Chinese history & psychological analysis
 - 🌱 **Currently Learning**: coding agent, multimodal AI, computer networks, ESP32 / Raspberry Pi projects
 - 🤝 **Looking to Collaborate On**: Agent tools, muti agents collaboration, or innovative full-stack ideas
-- 📫 **Reach Me**: [Hansun025@outlook.com](mailto:Hansun025@outlook.com)
+- 🌐 **Reach Me**: [hansunhuang.me](https://hansunhuang.me)
 - ⚡ **Fun Fact**: Basketball player, weight trainer, and reading enthusiast
 
 ---
